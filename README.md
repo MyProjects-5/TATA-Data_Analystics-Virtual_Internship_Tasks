@@ -1,7 +1,6 @@
 # Data Analysis Project with Tata Consultancy Services
 
 ### Overview
-
 This section provides an overview of my data analysis project experience during my tenure at Tata Consultancy Services. It highlights the key aspects of the project, including the tasks accomplished and the skills acquired.
 
 ### About the Internship
