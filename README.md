@@ -12,7 +12,7 @@ During my internship at Tata Consultancy Services, I had the opportunity to enga
 - **Crafted Visuals for Decision-Making :-** Designed visuals specifically tailored for data analysis, aiding executives in making effective and data-driven decisions crucial for business success.
 
 ### Skills Acquired :-
-Through this internship, I acquired a range of technical and soft skills essential for success in the field of data analysis, including:
+Through this internship, I acquired a range of technical and soft skills essential for success in the field of data analysis, including :-
 - Advanced data visualization techniques
 - Strategic thinking and problem-solving skills
 - Effective communication and presentation abilities
